@@ -1,10 +1,9 @@
-[![Discord](https://discordapp.com/api/guilds/323779330033319941/embed.png)](https://discord.gg/wXrjZmV)
-[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/@lavacord/discord.js)
-[![npm downloads](https://img.shields.io/npm/dt/@lavacord/discord.js.svg?maxAge=3600)](https://www.npmjs.com/package/@lavacord/discord.js)
-[![NPM version](https://badge.fury.io/js/%40lavacord%2Fdiscord.js.png)](http://badge.fury.io/js/@lavacord/discord.js)
+[![npm](https://img.shields.io/npm/v/npm.svg)](https://www.npmjs.com/package/lavacord-latest)
+[![npm downloads](https://img.shields.io/npm/dt/@lavacord/discord.js.svg?maxAge=3600)](https://www.npmjs.com/package/lavacord-latest)
+[![NPM version](https://badge.fury.io/js/%40lavacord%2Fdiscord.js.png)](http://badge.fury.io/js/lavacord-latest)
 [![Open Source Love](https://badges.frapsoft.com/os/mit/mit.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
-[![dependencies Status](https://david-dm.org/lavacord/discord.js/status.svg)](https://david-dm.org/lavacord/discord.js)
-[![devDependencies Status](https://david-dm.org/lavacord/discord.js/dev-status.svg)](https://david-dm.org/lavacord/discord.js?type=dev)
+
+> **Alternative to discord.js v13 lavalink**
 
 # @Lavacord/Discord.js
 A simple and easy to use lavalink wrapper for discord.js that uses lavacord underneath
